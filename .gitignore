@@ -1,0 +1,36 @@
+# built application files
+*.apk
+*.ap_
+target/
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+.worksheet/
+.cache
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+*.keystore
+
+proguard_cache
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+lib/
+libs/
+target/
+src_managed/
+project/boot/
+project/plugins/project
+art/
+resources/
